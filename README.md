@@ -1,5 +1,5 @@
 # ChatClient
-This is a VERY messy attempt at hardcoding a makeshift chat client. It has a few... "features" but I'll work on it as I improve my regular expression understanding!
+This is a VERY messy attempt at hardcoding a makeshift chat client. It has a few... "features" but hopefully I'll work on it again eventually!
 
 In order to get this piece of art working you'll have to have a local PostgreSQL server running and have two tables running within it.
 One would have to be named "users" and the other "history".
@@ -15,5 +15,3 @@ Some bugs I've found are:
   - No way to automatically create new tables from the UI.
   - Half the program is broken.
  
- 
-I will be working on this throughout the winter of 2019 so bare with me and feel free to comment/commit changes!
