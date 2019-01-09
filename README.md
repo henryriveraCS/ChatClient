@@ -13,7 +13,7 @@ Some bugs I've found are:
   - Messages longer than one word or with punctuation (i.e : !@#$%^&*,) will not display properly or at all.
   - If there exist no history for the chat in any new day (no one has pushed a message since the day started) then the program doesn't handle the problem efficiently.
   - No way to automatically create new tables from the UI.
-  - Half the programs broken.
+  - Half the program is broken.
  
  
 I will be working on this throughout the winter of 2019 so bare with me and feel free to comment/commit changes!
